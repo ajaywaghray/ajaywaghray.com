@@ -53,7 +53,7 @@ const ContactSection: React.FC = () => {
             <Button
               asChild
               size="lg"
-              className="w-full bg-black hover:bg-black/90 text-white rounded-full"
+              className="w-full bg-black hover:bg-black/90 text-white rounded-full text-base"
             >
               <a href="mailto:contact@ajaywaghray.com">
                 <Mail />
